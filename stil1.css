@@ -1,5 +1,5 @@
 body {
-	background:black 662px -133px url('../bilder/U_background.jpg') no-repeat;
+	background:black 670px -133px url('bilder/U_background.jpg') no-repeat;
 	padding:0px 0px;
 	margin:0px 0px 0px 0px;
 	font:16px/1.4em Arial, sans-serif;}
@@ -37,13 +37,6 @@ figure {margin:0;}
 	color:black;
 	font:12px/1.4em Arial, sans-serif;}
 
-hr {
-	color:#000;
-	height:0px;
-	border-style:solid;
-	border-width:1px;
-	border-color:black black gray;}
-	
 .mitt {text-align:center;}
 
 #all {
@@ -65,18 +58,11 @@ hr {
 	color:#fd0000;
 	letter-spacing:7px;}
 
-/*#top h2 {
-	font: 16px Paprika,"Lucida Sans Unicode", sans-serif;
-	opacity:1.0;
-	color:#5C449D;
-	padding:0px 0px;
-	margin:0px 0px 0px 0px;} */
-
 #meny {
 	font:19px Arial, sans-serif;
 	text-align:left;
 	padding:0px;
-	margin:160px 0px 0px 15px;}
+	margin:160px 0px 0px 10px;}
 
 #meny ul {
 	list-style-type: none;
